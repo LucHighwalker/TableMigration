@@ -1,0 +1,2 @@
+class CosmicTea < ApplicationRecord
+end
